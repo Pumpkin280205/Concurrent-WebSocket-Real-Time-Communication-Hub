@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# Logs (runtime-generated, not source)
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
