@@ -1,0 +1,13 @@
+{
+  "name": "ws-hub",
+  "version": "1.0.0",
+  "description": "Concurrent WebSocket real-time communication hub",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0",
+    "redis": "^4.7.0"
+  }
+}
